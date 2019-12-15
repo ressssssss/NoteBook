@@ -1,0 +1,34 @@
+﻿{
+  "dialogs": [
+    {
+      "id": 1,
+      "character": "",
+      "content": "门被锁上了。",
+      "next": -1
+    },
+    {
+      "id": 2,
+      "character": "",
+      "content": "有个锁上了的铁栅门，过不去。",
+      "next": -1
+    },
+    {
+      "id": 3,
+      "character": "张信",
+      "content": "奇怪，这个门怎么推不开？",
+      "next": 4
+    },
+    {
+      "id": 4,
+      "character": "王何",
+      "content": "这里好像是以前的档案室，被锁上很正常吧。",
+      "next": -1
+    },
+    {
+      "id": 5,
+      "character": "",
+      "content": "先看看一楼有没有窗户可以翻出去吧。",
+      "next": -1
+    }
+  ]
+}
